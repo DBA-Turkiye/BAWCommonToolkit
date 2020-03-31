@@ -73,6 +73,9 @@ Below services are used by the User Interface called ParameterInput in order to 
 
 **SingleSelectParameter**: It can be used to list parameters inside a single select component. GetParameterByCode service is binded to this component. You can pass the parameter code which you want to use with this component as a configuration parameter. This configuration parameter is passed to the service and related parameters can be listed inside a Single Select.
 You can use this component for requirements like Gender, City, Yes/No etc. 
+
+![](https://raw.githubusercontent.com/DBA-Turkiye/BAWCommonToolkit/master/Documentation/images/SingleSelectParameter.png)
+
 Below components have same behavior and functionality with SingleSelectParameter
 * Multiple Select Parameter
 * Radio Group Parameter
