@@ -10,7 +10,15 @@ By using this toolkit you can use below functionalities inside your Process Appl
 * City, Country and County Service
 * Custom SingleSelect component which is binded to a parameter list via code which allows you to list all parameters with relavant code on your UI. 
 
+## Define JDBC Resource on WAS
+* Open your WAS Console
+* Go to Resources > JDBC > Data Sources and click one of the existing data sources.  Under Related Items, click JAAS - J2C authentication data
+* Click New and set the fields Alias, User ID, and Password. For example, this procedure uses the following values: 
+	* 	 
+
 ## Importing Toolkit
 
 * Open IBM BAW Workflow Center - https://YOURIP:PORT/WorkflowCenter/
+* Go to Toolkits
+* Click Import and upload latest version of the .twx file from our repository. 
 * 
