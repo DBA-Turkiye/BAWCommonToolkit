@@ -12,4 +12,5 @@ By using this toolkit you can use below functionalities inside your Process Appl
 
 ## Importing Toolkit
 
-
+* Open IBM BAW Workflow Center - https://YOURIP:PORT/WorkflowCenter/
+* 
